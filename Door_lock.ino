@@ -1,3 +1,4 @@
+// Đây là sản phẩm môn kiến trúc máy tính của Trần Anh Đức và Lê Tiến Đạt- PTIT
 #include <Servo.h>                   // Khai báo thư viện sử dụng cho động cơ
 #include <LiquidCrystal_I2C.h>       // Khai báo thư viện LCD sử dụng I2C
 #include <Keypad.h>                  // Khai báo thư viện Keypad
